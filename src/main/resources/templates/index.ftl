@@ -13,6 +13,6 @@
 
 </div>
 <!-- 你的HTML代码 -->
-index
+	<#include "/admin/login.ftl">
 </body>
 </html>
